@@ -1,4 +1,6 @@
-# GW2UPPAAL
+# GW2UPPAAL: Combining Model-Based Testing and Automated Analysis of Behavioural Models using GraphWalker and UPPAAL
+
+![markus-spiske-cjOAigK9xo0-unsplash](https://user-images.githubusercontent.com/7644735/223975735-e3255482-cbb7-49c6-9a89-7495f02a5b83.jpg)
 
 Please follow the below instructions:
 
